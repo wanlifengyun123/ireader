@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#129151</color>
+    <color name="colorPrimaryDark">#22945B</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="windowBackground">#ececec</color>
+
+    <color name="transparentQuarter">#09000000</color>
+    <color name="transparentHalf">#20000000</color>
+    <color name="transparent3Quarters">#80000000</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="white_press">#66ffffff</color>
+    <color name="black">#000000</color>
+    <color name="grey">#333333</color>
+    <color name="global_bg">#9000</color>
+    
+    <color name="loginBgColor">#03ae58</color>
+    <color name="loginPressBgColor">#7003ae58</color>
+
+    <color name="mainTextColor">#333333</color>
+    <color name="subTextColor">#808080</color>
+    <color name="strokeColor">#dddddd</color>
+</resources>
